@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Herrera Pinheiro"
+  given-names: "João Manoel"
+  orcid: "https://orcid.org/0009-0001-6192-7374"
+title: "Python Data Structures and Algorithms"
+date-released: 2020-14-05
+url: "https://github.com/joaomh/python-data-structures-and-algorithms"
