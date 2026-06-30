@@ -13,3 +13,4 @@ Fontes: <br>
 10: https://github.com/diegovanelli/python_hackerHank <br>
 11: https://github.com/MTrajK/coding-problems <br>
 12: https://github.com/SamirPaulb/DSAlgo
+13: https://github.com/isquicha/exercicios-logica-python
